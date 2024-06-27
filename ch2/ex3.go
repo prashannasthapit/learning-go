@@ -11,6 +11,5 @@ func Ex3() {
 	smallI = smallI + 1
 	bigI = bigI + 1
 
-	fmt.Println("Ex3")
-	fmt.Printf("Byte -> %v\nSmall Int -> %v\nBig uInt -> %v\n", b, smallI, bigI)
+	fmt.Printf("Ex3 Byte -> %v Small Int -> %v Big uInt -> %v\n", b, smallI, bigI)
 }

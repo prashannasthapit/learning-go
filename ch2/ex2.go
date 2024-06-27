@@ -7,5 +7,5 @@ func Ex2() {
 	i := value
 	var f float64 = value
 
-	fmt.Printf("Ex2\nInteger -> %d\nFloat64 -> %f\n", i, f)
+	fmt.Printf("Ex2 Integer -> %d Float64 -> %f\n", i, f)
 }
